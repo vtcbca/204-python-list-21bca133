@@ -1,3 +1,4 @@
+
 n=int(input("Enter No. of rows : "))
 k=2*n-2
 for i in range (n):
